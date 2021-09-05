@@ -50,4 +50,4 @@ You are provided with 3 files:
 2. In order to clear this stage, your final score after submission should be more than or equal to 0.92.
 
 For further details of the hackathon and to make your submissions, go to this link: 
-https://datahack.analyticsvidhya.com/contest/web-page-classification/
+https://datahack.analyticsvidhya.com/contest/web-page-classification-3/

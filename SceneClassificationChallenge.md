@@ -39,4 +39,4 @@ sample_submission.csv have the following structure:
 2. In order to clear this stage, your final score after submission should be more than or equal to 0.945
 
 For further details of the hackathon and to make your submissions, go to this link: 
-https://datahack.analyticsvidhya.com/contest/scene-classification/
+https://datahack.analyticsvidhya.com/contest/web-page-classification-2/
